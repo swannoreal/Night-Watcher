@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn Swann the Duck
+          This is a new update. 
         </a>
       </header>
     </div>
