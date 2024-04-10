@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-function New_nightForm() {
+function new_nightForm() {
   const [alone, setAlone] = useState('');
   const [feelSafe, setFeelSafe] = useState('');
   const [drinks, setDrinks] = useState(1);
@@ -147,4 +147,4 @@ function New_nightForm() {
   );
 }
 
-export default New_nightForm;
+export default new_nightForm;
